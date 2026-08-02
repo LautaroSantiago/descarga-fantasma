@@ -142,6 +142,10 @@ archivo nunca queda en el disco.
 - [ ] Progreso real de subida en vez de "subiendo / listo"
 - [ ] Excluir dominios específicos de la interceptación
 
+## Licencia
+
+[MIT](./LICENSE) — usá, modificá y compartí como quieras.
+
 ## Autor
 
 **Lautaro Subeldia**
